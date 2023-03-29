@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khaledshaikh2244
-- 👀 I’m interested in Blockchain Technology
+- 👀 I’m Full Stack Web3 Developer
 - 🌱 I’m currently Pursuing Be in Computer Science ...
 - 💞️ I’m looking to collaborate on Web3 based Projects
    
